@@ -1,0 +1,12 @@
+streamlit
+tensorflow
+keras
+numpy
+pandas
+pillow
+plotly
+matplotlib
+scikit-learn
+opencv-python-headless
+h5py
+protobuf
