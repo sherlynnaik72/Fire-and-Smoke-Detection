@@ -813,3 +813,4 @@ st.markdown("""
   <div class="footer-right">STREAMLIT · TENSORFLOW · PLOTLY </div>
 </div>
 """, unsafe_allow_html=True)
+-----------Completed---------------------------------------
