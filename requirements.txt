@@ -1,5 +1,4 @@
 # Core Deep Learning
-# Requires Python 3.10, 3.11, or 3.12 — does NOT work on Python 3.13
 tensorflow>=2.13.0,<2.22.0
 
 # Computer Vision
