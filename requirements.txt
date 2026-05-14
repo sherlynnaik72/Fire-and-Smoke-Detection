@@ -1,5 +1,6 @@
 # Core Deep Learning
-tensorflow>=2.13.0
+# Requires Python 3.10, 3.11, or 3.12 — does NOT work on Python 3.13
+tensorflow>=2.13.0,<2.22.0
 
 # Computer Vision
 opencv-python>=4.8.0
